@@ -1,11 +1,11 @@
 🎮 Hangman Game (Python)
 
-
+---
 📖 Overview
 
 This project is a console-based Hangman game built in Python. The game randomly selects a hidden word from a word list, and the player must guess the letters one at a time before running out of lives. Each incorrect guess reduces the player's remaining lives and gradually reveals the Hangman drawing. The objective is to successfully guess the entire word before all lives are lost. Hangman is a classic word-guessing game where players reveal letters of a hidden word while avoiding too many incorrect guesses.
 
-
+--- 
 ✨ Features
 
 - Random word selection from a word list
@@ -16,7 +16,7 @@ This project is a console-based Hangman game built in Python. The game randomly 
 - ASCII Hangman stages that update after wrong guesses
 - Clear win and lose conditions
 
-
+---
 🧠 How It Works
 
 - The program randomly selects a word from a predefined list.
@@ -27,7 +27,7 @@ This project is a console-based Hangman game built in Python. The game randomly 
 - The player wins if the word is fully revealed before lives reach zero, otherwise the player loses.
 
 
-
+---
 🛠 Technologies Used
 
 - Python
@@ -38,7 +38,7 @@ This project is a console-based Hangman game built in Python. The game randomly 
   - lists and strings
 
 
-
+---
 👨‍💻 Author 
 
 MOHAMMED JONAED HAQUE
